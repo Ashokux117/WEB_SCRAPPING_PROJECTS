@@ -20,7 +20,7 @@ pip install -r requirements.txt
 **How to Run**
 
 1. Clone this repository:
-   git clone https://github.com/Ashokux117/web_scraping_bbc.git
+   git clone https://github.com/Ashokux117/WEB_SCRAPPING_PROJECTS.git
 2. Navigate to the project folder:
    cd web_scraping_bbc.
 3. Run the Python script:
@@ -37,3 +37,4 @@ pip install -r requirements.txt
    ├── bbc_headlines.csv       ← output file (auto-generated)
    ├── requirements.txt         ← list of Python libraries used
    └── README.md               ← project description file
+
